@@ -50,3 +50,13 @@ The following classifiers were trained:
 ## Output
 
 The evaluation results are exported to:
+
+output/classification_results.xlsx
+
+
+## Technologies
+
+Python  
+Scikit-learn  
+Pandas  
+NumPy
